@@ -2,7 +2,7 @@
 
 ## Background and Purpose
 
-The Climate Crisis is one of the most consequential issues facing society as a result of human's increased use of fossil fuels, deforestation, and intensive agriculture rising the global temperature. It's important to note that temperature increase is not linear but will continue to increase to rise unless greenhouse gases are curbed immediately. Scientists worry that we only have a few more years left until the tempertature's reach a tipping point sparking a positive-feedback loop creating an unihabitable Earth. 
+The Climate Crisis is one of the most consequential issues facing society as a result of human's increased use of fossil fuels, deforestation, and intensive agriculture rising the global temperature. It's important to note that temperature increase is not linear but will continue to increase unless greenhouse gases are curbed immediately. Scientists worry that we only have a few more years left until the tempertature's reach a tipping point sparking a positive-feedback loop creating an unihabitable Earth. 
 
 Is the Earth actually warming? 
 
