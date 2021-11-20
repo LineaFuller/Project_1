@@ -1,6 +1,4 @@
 # Project 1
-<<<<<<< time_vs_precip
-=======
 
 ## Background and Purpose
 
