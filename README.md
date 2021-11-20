@@ -26,5 +26,6 @@ Our group created insightful visualizations and calculated the r-values using th
 
 ## Conclusion and results
 
-
+Time vs precipitation: no correlation 
+Time vs Temperature: moderate correlation: linear regression 
 
