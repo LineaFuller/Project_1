@@ -26,4 +26,11 @@ Our group created insightful visualizations and calculated the r-values using th
 
 ## Conclusion and results
 
+1. Time vs Temperature: All three countries showed in increase in temperature over the years. All three graphs produced significant r-values representing a moderatae correlation.
+
+2. Time vs precipitation: Precipitation patters did not seem to change over time. The comparison for each country produced a weak r-value signifying that there was no significant relationship between time and precipitation.
+
+3. Temperature vs precipitation:  There is no correlation between average temperature and average precipitation. Interestingly, the average Tm change rate is climbing rapidly since 1951. There is a week correlation between Max Temp and Max Precipitation in USA 
+
+
 
